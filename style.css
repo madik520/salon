@@ -112,8 +112,10 @@ ul {
     background-color: rgba(0, 0, 0, 0.65); }
 .bg-img {
   background-size: cover;
-  background-repeat: no-repeat;
-  object-fit: cover; }
+  background-repeat: no-repeat;}
+.bg-img-1{
+  background-position: left center;
+}
 .jarallax {
   position: relative;
   z-index: 0; }
